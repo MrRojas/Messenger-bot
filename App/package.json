@@ -1,0 +1,17 @@
+{
+  "name": "pugpizza",
+  "version": "1.0.0",
+  "description": "Uso de Bots en messenger de Face Book",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armando Rojas <rojasarmando260@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4",
+    "request": "^2.88.0"
+  }
+}
